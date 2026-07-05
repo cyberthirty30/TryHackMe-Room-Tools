@@ -1,6 +1,6 @@
 # TryHackMe Room Tools
 
-### **Fools Mate**
+## **Fools Mate TryHackMe**
 
 | Room Name | Difficulty | Creator | Subscription Type |
 | :---- | :---- | :---- | :---- |
