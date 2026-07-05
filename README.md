@@ -1,20 +1,12 @@
 # TryHackMe Room Tools
-### Fools Mate
-1. **[Fools Mate](https://tryhackme.com/room/foolsmate)**
-   ```json
-   Fools Mate {
-   "status":"Easy",
-   "creator": "TryHackMe & DrGonz0"
-   }
-   ```
-   
-3. **[Fools Mate, Revenge](https://tryhackme.com/room/foolsm8v2)**
-   ```bash
-   Fools Mate, Revenge {
-   "status":"Medium",
-   "creator": "TryHackMe & DrGonz0"
-   }
-   ```
+
+### **Fools Mate**
+
+| Room Name | Difficulty | Creator | Subscription Type |
+| :---- | :---- | :---- | :---- |
+| [Fools Mate](https://tryhackme.com/room/foolsmate) | Easy | TryHackMe & DrGonz0 | Free |
+| [Fools Mate, Revenge](https://tryhackme.com/room/foolsm8v2) | Medium | TryHackMe & DrGonz0 | Free |
+
    
 
 #### Fools Mate: How to Run It
